@@ -57,5 +57,6 @@ III. Phân công công việc nhóm:
     - chức năng sóng
 - Nguyễn Đình Vượng
     - Thiết kế giao diện
+    - Support tìm hiểu các yêu cầu của thầy
     - Đọc ghi dữ liệu
     - xây dựng chức năng playlist
